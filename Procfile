@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run statusWeb.py
+web: sh setup.sh && streamlit run painel.py
